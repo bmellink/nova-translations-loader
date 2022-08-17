@@ -1,6 +1,6 @@
 <?php
 
-namespace Outl1ne\NovaTranslationsLoader;
+namespace bmellink\NovaTranslationsLoader;
 
 use Exception;
 use Laravel\Nova\Nova;
